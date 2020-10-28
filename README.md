@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🥅 2020 Goals: Learn React,Vue, Node
+- 🥅 2020 Goals: Learn React, Node
 
 
 
