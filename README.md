@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 - 🥅 2020 Goals: Learn React, Node
+-->
+
 
 
 
