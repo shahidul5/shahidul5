@@ -1,8 +1,5 @@
 ### Hi there, I'm SHAHID 👋
 
-## I'm a 😍😍 JavaScript Lover 😍😍!
-
-
 Here are some ideas to get you started:
 
 <!--
