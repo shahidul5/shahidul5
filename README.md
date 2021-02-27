@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - -->
-- 🥅 2021 Goals: Learn React, Node
+- 🥅 2021 Goals: Learn Node.js, Express.js, Angular
 
 
 
