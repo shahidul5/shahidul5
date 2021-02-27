@@ -2,9 +2,8 @@
 
 Here are some ideas to get you started:
 
-<!--
-- 🔭 I’m currently working on ...
--->
+
+- 🔭 I’m currently working on Next.js
 - 🌱 I’m currently learning more technology for full stack developer
 <!--
 - 👯 I’m looking to collaborate on ...
@@ -13,8 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 🥅 2020 Goals: Learn React, Node
--->
+- -->
+- 🥅 2021 Goals: Learn React, Node
+
 
 
 
