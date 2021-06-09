@@ -2,11 +2,11 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Software Engineer | Youtuber | Quick Learner</em></p>
 
-[![Linkedin: shahid-ul](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shahid-ul/)](https://www.linkedin.com/in/shahid-ul/)
+[![Linkedin: shahid-ul](https://img.shields.io/badge/-Shahid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shahid-ul/)](https://www.linkedin.com/in/shahid-ul/)
 ![GitHub followers](https://img.shields.io/github/followers/MrmShAHiD?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://shahid-me.web.app/)](https://shahid-me.web.app/)
 ![](https://visitor-badge.glitch.me/badge?page_id=MrmShAHiD.MrmShAHiD)
-![Waka Readme](https://github.com/MrmShAHiD/MrmShAHiD/workflows/Waka%20Readme/badge.svg)
+
 
 Here are some ideas to get you started:
 
