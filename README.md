@@ -3,35 +3,64 @@
 <p><em>Software Engineer | Youtuber | Quick Learner</em></p>
 
 [![Linkedin: shahid-ul](https://img.shields.io/badge/-Shahid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shahid-ul/)](https://www.linkedin.com/in/shahid-ul/)
+[![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/hello_shahidul/)
+[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/shahid.cse46/)
 ![GitHub followers](https://img.shields.io/github/followers/MrmShAHiD?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://shahid-me.web.app/)](https://shahid-me.web.app/)
 ![](https://visitor-badge.glitch.me/badge?page_id=MrmShAHiD.MrmShAHiD)
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-Here are some ideas to get you started:
-
-
-- 🔭 I’m currently working on Next.js
-- 🌱 I’m currently learning more technology for full stack developer
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- -->
-- 🥅 2021 Goals: Learn Node.js, Express.js, Angular
-
-
-
+```javascript
+const Shahid = {
+    pronouns: "He" | "Him",
+    code: ["JavaScript", "TypeScript", "C", "C++"],
+    askMeAbout: ["web dev", "tech", "cycling", "photography"],
+    technologies: {
+        backEnd: {
+            js: ["node.js", "express.js", "hapi.js"],
+        },
+        frontEnd: {
+            js: ["React", "Next"],
+            css: ["Bootstrap", "MaterialUI", "ChakraUI", "Materialize"]
+        },
+        mobileApp: {
+            native: ["Learning"]
+        },
+        databases: ["mongo", "MySql"],
+        misc: ["Firebase", "Socket.IO"]
+    },
+    funFact: "There are two ways to write error-free programs; only the third one works",
+    passion: "Besides all day programming I have a passion for cycling, running and walking."
+};
+```
 
 
 ### 📑 my resume/cv:
 
 ##### 🖨 [resume pdf and doc](https://drive.google.com/file/d/1Eu1_-bb3JJtKZWoli2PnvDmh5EruQiwS/view?fbclid=IwAR29GJV_UYnPLXWj-Nv33Fnpicw9itWLBshJAtNDpICVz9Mubm3ep0cCQPc)
 
-### Connect with me:  [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/shahid-ul)   [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/hello_shahidul/)   [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/shahid.cse46/) [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/10940727/shahid-ul-islam)
+<!--
+Here are some ideas to get you started:
+
+
+- 🔭 I’m currently working on Next.js
+- 🌱 I’m currently learning more technology for full stack developer
+
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+- 
+- 🥅 2021 Goals: Learn Node.js, Express.js, Angular
+
+
+
+
+### Connect with me:  [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/shahid-ul)       [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/10940727/shahid-ul-islam)
+-->
 
 <br />
 
