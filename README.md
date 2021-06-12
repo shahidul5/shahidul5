@@ -31,7 +31,7 @@ const Shahid = {
         misc: ["Firebase", "Socket.IO"]
     },
     funFact: "There are two ways to write error-free programs; only the third one works",
-    passion: "Besides all day programming I have a passion for cycling, running and walking."
+    passion: "Besides all day programming I have a passion for cycling and running."
 };
 ```
 
