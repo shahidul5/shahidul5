@@ -22,7 +22,7 @@ const Shahid = {
         },
         frontEnd: {
             js: ["React", "Next"],
-            css: ["Bootstrap", "MaterialUI", "ChakraUI", "Materialize"]
+            css: ["Bootstrap", "MaterialUI", "ChakraUI", "Materialize", "Tailwind CSS"]
         },
         mobileApp: {
             native: ["Learning"]
