@@ -38,7 +38,7 @@ const Shahid = {
 
 ### 📑 my resume/cv:
 
-##### 🖨 [resume pdf and doc](https://drive.google.com/file/d/1Eu1_-bb3JJtKZWoli2PnvDmh5EruQiwS/view?fbclid=IwAR29GJV_UYnPLXWj-Nv33Fnpicw9itWLBshJAtNDpICVz9Mubm3ep0cCQPc)
+##### 🖨 [resume pdf and doc](https://drive.google.com/file/d/1Cl9RvqyffDdgLTUudroXVFkN2DVMf6eg/view)
 
 <!--
 Here are some ideas to get you started:
