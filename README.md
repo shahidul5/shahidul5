@@ -18,7 +18,7 @@ const Shahid = {
     askMeAbout: ["web dev", "tech", "cycling", "photography"],
     technologies: {
         backEnd: {
-            js: ["node.js", "express.js", "hapi.js"],
+            js: ["node.js", "express.js"],
         },
         frontEnd: {
             js: ["React", "Next"],
@@ -27,8 +27,8 @@ const Shahid = {
         mobileApp: {
             native: ["Learning"]
         },
-        databases: ["mongo", "MySql"],
-        misc: ["Firebase", "Socket.IO"]
+        databases: ["mongo"],
+        misc: ["Firebase"]
     },
     funFact: "There are two ways to write error-free programs; only the third one works",
     passion: "Besides all day programming I have a passion for cycling and running."
