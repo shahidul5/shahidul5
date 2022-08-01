@@ -24,6 +24,7 @@ const Shahid = {
             js: ["React", "Next"],
             css: ["Bootstrap", "MaterialUI", "ChakraUI", "Materialize", "Tailwind CSS"]
         },
+        stateManagement: {"Redux", "Context API"},
         mobileApp: {
             native: ["Learning"]
         },
