@@ -91,6 +91,6 @@ Here are some ideas to get you started:
 
 <!-- <img width="550" alt="Shahid's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=black-ghOost&show_icons=true"/> -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=black-ghOost&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahidul10&layout=compact)
 <!-- [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=black-ghOost&card_width=550)](https://github.com/black-ghOost/black-ghOost) -->
 
