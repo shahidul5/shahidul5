@@ -5,7 +5,7 @@
 [![Linkedin: shahid-ul](https://img.shields.io/badge/-Shahid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shahid-ul/)](https://www.linkedin.com/in/shahid-ul/)
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/hello_shahidul/)
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/shahid.cse46/)
-![GitHub followers](https://img.shields.io/github/followers/shahidul10?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/dev-shahidul?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://shahid-me.web.app/)](https://shahid-me.web.app/)
 ![](https://visitor-badge.glitch.me/badge?page_id=shahidul10.shahidul10)
 
@@ -41,7 +41,7 @@ const Shahid = {
 
 ##### 🖨 [resume pdf and doc](https://drive.google.com/file/d/1Cl9RvqyffDdgLTUudroXVFkN2DVMf6eg/view)
 
-<!--
+
 Here are some ideas to get you started:
 
 
@@ -61,7 +61,6 @@ Here are some ideas to get you started:
 
 
 ### Connect with me:  [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/shahid-ul)       [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/10940727/shahid-ul-islam)
--->
 
 <br />
 
