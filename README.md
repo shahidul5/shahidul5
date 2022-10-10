@@ -46,8 +46,8 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on React.js, Next.js
-- 🌱 I’m currently learning more technology for full stack developer
-- 📫 How to reach me: ...
+- 🌱 I’m currently learning more technology for full stack development
+- 📫 How to reach me: shahidul.cse46@gmail.com or, shahidul.islam@selise.ch
 - 🥅 2022 Goals: Learn Node.js, Express.js, Angular
 
 <!--
