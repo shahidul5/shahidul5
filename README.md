@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on React.js, Next.js
 - 🌱 I’m currently learning Angular
 - 📫 How to reach me: shahidul.cse46@gmail.com or, shahidul.islam@selise.ch
-- 🥅 2022 Goals: Learn Node.js, Express.js, Angular
+- 🥅 2023 Goals: Learn Angular
 
 <!--
 - 👯 I’m looking to collaborate on ...
@@ -94,6 +94,6 @@ Here are some ideas to get you started:
 
 <!-- <img width="550" alt="Shahid's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=black-ghOost&show_icons=true"/> -->
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahidul10&layout=compact) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-shahidul&layout=compact)
 <!-- [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=black-ghOost&card_width=550)](https://github.com/black-ghOost/black-ghOost) -->
 
