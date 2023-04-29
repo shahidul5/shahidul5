@@ -26,7 +26,7 @@ const Shahid = {
         },
         stateManagement: ["Redux", "Context API"],
         mobileApp: {
-            native: ["Learning"]
+            native: ["React Native(Learning)"]
         },
         databases: ["mongo"],
         misc: ["Firebase"]
