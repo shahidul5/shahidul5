@@ -92,6 +92,8 @@ Here are some ideas to get you started:
 <br />
 <br />
 
+<img width="550" alt="Shahid's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=dev-shahidul&show_icons=true"/>
+
 <!-- <img width="550" alt="Shahid's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=black-ghOost&show_icons=true"/> -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-shahidul&layout=compact) -->
