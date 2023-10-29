@@ -121,6 +121,6 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-shahidul&show_icons=true&locale=en&layout=compact" alt="dev-shahidul" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-shahidul&show_icons=true&locale=en" alt="dev-shahidul" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-shahidul&show_icons=true&locale=en" alt="dev-shahidul" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-shahidul&" alt="dev-shahidul" /></p>
