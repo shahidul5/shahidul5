@@ -21,12 +21,12 @@ const Shahid = {
             js: ["node.js", "express.js"],
         },
         frontEnd: {
-            js: ["React", "Next"],
+            js: ["React", "Next", "Angular(Learning)"],
             css: ["Bootstrap", "MaterialUI", "ChakraUI", "Materialize", "Tailwind CSS"]
         },
         stateManagement: ["Redux", "Context API"],
         mobileApp: {
-            native: ["React Native(Learning)"]
+            native: ["React Native"]
         },
         databases: ["mongo"],
         misc: ["Firebase"]
@@ -46,9 +46,9 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on React.js, Next.js
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Angular.io
 - 📫 How to reach me: shahidul.cse46@gmail.com or, shahidul.islam@selise.ch
-- 🥅 2023 Goals: Learn Angular
+- 🥅 2023 Goals: Learn Angular.io
 
 <!--
 - 👯 I’m looking to collaborate on ...
