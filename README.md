@@ -45,10 +45,10 @@ const Shahid = {
 Here are some ideas to get you started:
 
 
-- 🔭 I’m currently working on React.js, Next.js
-- 🌱 I’m currently learning Angular.io
+- 🔭 I’m currently working on React.js, Next.js, React Native
+- 🌱 I’m currently learning Angular
 - 📫 How to reach me: shahidul.cse46@gmail.com or, shahidul.islam@selisegroup.com
-- 🥅 2023 Goals: Learn Angular.io
+- 🥅 2024 Goals: Learn Angular
 
 <!--
 - 👯 I’m looking to collaborate on ...
