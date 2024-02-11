@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on React.js, Next.js
 - 🌱 I’m currently learning Angular.io
-- 📫 How to reach me: shahidul.cse46@gmail.com or, shahidul.islam@selise.ch
+- 📫 How to reach me: shahidul.cse46@gmail.com or, shahidul.islam@selisegroup.com
 - 🥅 2023 Goals: Learn Angular.io
 
 <!--
