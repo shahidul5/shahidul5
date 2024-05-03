@@ -5,7 +5,7 @@
 [![Linkedin: shahid-ul](https://img.shields.io/badge/-Shahid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shahid-ul/)](https://www.linkedin.com/in/shahid-ul/)
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/hello_shahidul/)
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/shahid.cse46/)
-![GitHub followers](https://img.shields.io/github/followers/dev-shahidul?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/shahidul5?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://shahid-me.web.app/)](https://shahid-me.web.app/)
 ![](https://visitor-badge.glitch.me/badge?page_id=shahidul10.shahidul10)
 
@@ -19,17 +19,18 @@ const Shahid = {
     technologies: {
         backEnd: {
             js: ["node.js", "express.js"],
+            c#: ["C#(Learning)"],
         },
         frontEnd: {
-            js: ["React", "Next", "Angular(Learning)"],
+            js: ["React", "Next", "Angular"],
             css: ["Bootstrap", "MaterialUI", "ChakraUI", "Materialize", "Tailwind CSS"]
         },
         stateManagement: ["Redux", "Context API"],
         mobileApp: {
             native: ["React Native"]
         },
-        databases: ["mongo"],
-        misc: ["Firebase"]
+        databases: ["mongoDB"],
+        misc: ["Firebase", "Vercel", "Netlify"]
     },
     funFact: "There are two ways to write error-free programs; only the third one works",
     passion: "Besides all day programming I have a passion for cycling and running."
@@ -92,12 +93,12 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-<!-- <img width="550" alt="Shahid's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=dev-shahidul&show_icons=true"/> -->
+<!-- <img width="550" alt="Shahid's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=shahid5&show_icons=true"/> -->
 
 <!-- <img width="550" alt="Shahid's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=black-ghOost&show_icons=true"/> -->
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-shahidul&layout=compact) -->
-<!-- [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-shahidul&card_width=550)](https://github.com/dev-shahidul/dev-shahidul)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahid5&layout=compact) -->
+<!-- [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=shahid5&card_width=550)](https://github.com/shahid5/shahid5)
  -->
 
 <h3 align="left">Languages and Tools:</h3>
@@ -119,8 +120,8 @@ Here are some ideas to get you started:
 <!-- <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> -->
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-shahidul&show_icons=true&locale=en&layout=compact" alt="dev-shahidul" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahid5&show_icons=true&locale=en&layout=compact" alt="shahidul5" /></p>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-shahidul&show_icons=true&locale=en" alt="dev-shahidul" /></p> -->
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahid5&show_icons=true&locale=en" alt="shahid5" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-shahidul&" alt="dev-shahidul" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahidul5&" alt="shahidul5" /></p>
