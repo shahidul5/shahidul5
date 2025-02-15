@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on React.js, Next.js, React Native
 - 🌱 I’m currently learning .NET Core
 - 📫 How to reach me: shahidul.cse46@gmail.com or, shahidul.islam@selisegroup.com
-- 🥅 2024 Goals: Learn .NET Core
+- 🥅 2025 Goals: Learn .NET Core
 
 <!--
 - 👯 I’m looking to collaborate on ...
