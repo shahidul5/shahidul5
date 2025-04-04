@@ -4,7 +4,7 @@
 
 ### Full Stack Developer | Software Engineer | Quick Learner
 
-[![Linkedin: Shahidul](https://img.shields.io/badge/-Shahidul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shahidul-islam/)](https://www.linkedin.com/in/shahidul-islam/)
+[![Linkedin: Shahidul](https://img.shields.io/badge/-Shahidul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shahid-ul/)](https://www.linkedin.com/in/shahid-ul/)
 [![GitHub followers](https://img.shields.io/github/followers/shahidul5?label=Follow&style=social)](https://github.com/shahidul5)
 [![Portfolio](https://img.shields.io/badge/Portfolio-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://shahidul.me)](https://shahidul.me)
 ![](https://visitor-badge.glitch.me/badge?page_id=shahidul5.shahidul5)
