@@ -88,7 +88,7 @@ const shahidul = {
 
 ### 📊 GitHub Stats:
 
-<img width="550" alt="Shahidul's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shahidul5&show_icons=true&theme=radical"/>
+<!-- <img width="550" alt="Shahidul's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shahidul5&show_icons=true&theme=radical"/> -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahidul5&layout=compact&theme=radical)](https://github.com/shahidul5)
 
