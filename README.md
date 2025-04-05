@@ -90,6 +90,8 @@ const shahidul = {
 
 <!-- <img width="550" alt="Shahidul's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shahidul5&show_icons=true&theme=radical"/> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahidul5&layout=compact&theme=radical)](https://github.com/shahidul5)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahidul5&layout=compact&theme=radical)](https://github.com/shahidul5) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahidul5&layout=compact&langs_count=10&theme=radical)](https://github.com/shahidul5)
+
 
 ---
