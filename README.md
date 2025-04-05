@@ -94,4 +94,18 @@ const shahidul = {
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahidul5&layout=compact&langs_count=10&theme=radical)](https://github.com/shahidul5)
 
 
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahidul5&show_icons=true&locale=en&layout=compact" alt="shahidul5" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahidul5&show_icons=true&locale=en" alt="shahidul5" /></p>
+
+![](https://raw.githubusercontent.com/shahidul5/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/shahidul5/cf-stats/main/output/light_card.svg)
+
+![](https://raw.githubusercontent.com/shahidul5/cf-stats/main/output/max_rating.svg)
+![](https://raw.githubusercontent.com/shahidul5/cf-stats/main/output/rating.svg)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahidul5&" alt="shahidul5" /></p>
+
+
 ---
